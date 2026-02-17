@@ -76,3 +76,19 @@
     height: auto;
     display: block;
 }
+.main-features {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.main-feature {
+    background: #111111;
+    color: #ffffff;
+    padding: 12px 14px;
+    front-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    border-radius: 10px;
+}
